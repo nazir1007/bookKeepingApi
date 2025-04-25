@@ -1,0 +1,15 @@
+{
+    "REGISTER_SUCCESS": "उपयोगकर्ता सफलतापूर्वक पंजीकृत हुआ",
+    "LOGIN_SUCCESS": "लॉगिन सफल हुआ",
+    "UNAUTHORIZED": "अमान्य प्रमाण-पत्र",
+    "BORROW_SUCCESS": "पुस्तक उधार ली गई",
+    "RETURN_SUCCESS": "पुस्तक लौटाई गई",
+    "BOOK_DELETED": "पुस्तक हटाई गई",
+    "BOOK_NOT_FOUND": "पुस्तक नहीं मिली",
+    "LIBRARY_DELETED": "लाइब्रेरी हटाई गई",
+    "BOOK_ADDED": "पुस्तक इन्वेंट्री में जोड़ी गई",
+    "BOOK_REMOVED": "पुस्तक इन्वेंट्री से हटाई गई",
+    "ALREADY_BORROWED": "पुस्तक पहले से उधार ली गई है",
+    "NO_TOKEN": "टोकन प्रदान नहीं किया गया",
+    "INVALID_TOKEN": "अमान्य टोकन"
+  }

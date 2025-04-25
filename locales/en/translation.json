@@ -1,0 +1,15 @@
+{
+   " REGISTER_SUCCESS": "User registered successfully",
+    "LOGIN_SUCCESS": "Login successful",
+    "UNAUTHORIZED": "Invalid credentials",
+    "BORROW_SUCCESS": "Book borrowed",
+    "RETURN_SUCCESS": "Book returned",
+    "BOOK_DELETED": "Book deleted",
+    "BOOK_NOT_FOUND": "Book not found",
+    "LIBRARY_DELETED": "Library deleted",
+    "BOOK_ADDED": "Book added to inventory",
+    "BOOK_REMOVED": "Book removed from inventory",
+    "ALREADY_BORROWED": "Book is already borrowed",
+    "NO_TOKEN": "No token provided",
+    "INVALID_TOKEN": "Invalid token"
+  }
